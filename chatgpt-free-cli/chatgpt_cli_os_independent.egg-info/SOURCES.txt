@@ -1,4 +1,3 @@
-README.md
 setup.py
 chatgpt_cli/__init__.py
 chatgpt_cli/main.py
