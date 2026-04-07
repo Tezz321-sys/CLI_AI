@@ -1,0 +1,10 @@
+README.md
+setup.py
+chatgpt_cli/__init__.py
+chatgpt_cli/main.py
+chatgpt_cli_os_independent.egg-info/PKG-INFO
+chatgpt_cli_os_independent.egg-info/SOURCES.txt
+chatgpt_cli_os_independent.egg-info/dependency_links.txt
+chatgpt_cli_os_independent.egg-info/entry_points.txt
+chatgpt_cli_os_independent.egg-info/requires.txt
+chatgpt_cli_os_independent.egg-info/top_level.txt
